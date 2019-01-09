@@ -6,18 +6,18 @@ Simple Android SMS server, written in Python 3
 There are 2 versions of the script:
 
 **1. SL4A version:**
-Install QPython (with Python3 interpreter) or 'Python3 for Android' + SL4A on your device.
-Run `pip install flask_restful` in pip console.
-Run the script.
+1. Install QPython (with Python3 interpreter) or 'Python3 for Android' + SL4A on your device.
+2. Run `pip install flask_restful` in pip console.
+3. Run the script.
 
 **2. Termux version:** Install Termux on your device and 
-Install QPython (with Python3 interpreter) or 'Python3 for Android' + SL4A on your device.
-Run these commands in terminal:
+1. Install QPython (with Python3 interpreter) or 'Python3 for Android' + SL4A on your device.
+2. Run these commands in terminal:
 ```
 $ pkg install python
 $ pip install flask_restful
 ```
-Run the script.
+3. Run the script.
 
 API URL: `http://your_local_ip_address:5000/sendSMS`
 
