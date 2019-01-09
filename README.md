@@ -1,6 +1,8 @@
 # Android SMS Server
 Simple Android SMS server, written in Python 3
 
+Using this script, you can easily send SMS to anyone.
+
 ### Installation and running:
 
 There are 2 versions of the script:
