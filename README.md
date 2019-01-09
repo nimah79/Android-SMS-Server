@@ -20,7 +20,9 @@ $ pip install flask_restful
 Run the script.
 
 API URL: `http://your_local_ip_address:5000/sendSMS`
+
 Request method should be POST.
+
 Request arguments:
 `phone`: the phone number you want to send SMS to
 `text`: message text
